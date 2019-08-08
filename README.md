@@ -4,7 +4,8 @@ cursoDeGit
 
 ## introducción
 
-``` <?php 
+``` 
+<?php 
 phpInfo(); 
 ?>
 ```
