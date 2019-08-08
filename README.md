@@ -2,6 +2,10 @@
 cursoDeGit
 
 
-##introducción
+## introducción
 
-  ´´´php
+``` <?php 
+phpInfo(); 
+?>
+```
+## Despedida
